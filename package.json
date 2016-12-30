@@ -16,7 +16,7 @@
     "coffee-script": "*",
     "less": "*",
     "stylus": "*",
-    "nib": "*",
+    "nib": ">=1.1.2",
     "csso": "*"
   },
   "repository": {
