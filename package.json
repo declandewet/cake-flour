@@ -5,7 +5,7 @@
   "main": "flour.coffee",
   "dependencies": {
     "colors": "*",
-    "hound": "*",
+    "hound": ">=1.0.4",
     "minimatch": "*"
   },
   "devDependencies": {
