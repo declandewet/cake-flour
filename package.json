@@ -13,7 +13,7 @@
     "should": "*",
     "uglify-js": ">2.0",
     "jshint": "*",
-    "coffee-script": "*",
+    "coffee-script": ">=1.12.5",
     "less": "*",
     "stylus": "*",
     "nib": "*",
