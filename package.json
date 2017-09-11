@@ -17,7 +17,7 @@
     "less": "*",
     "stylus": "*",
     "nib": "*",
-    "csso": "*"
+    "csso": ">=3.2.0"
   },
   "repository": {
     "type": "git",
