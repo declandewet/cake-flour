@@ -4,7 +4,7 @@
   "description": "Cakefile extension for simpler build scripts",
   "main": "flour.coffee",
   "dependencies": {
-    "colors": "*",
+    "colors": ">=1.2.4",
     "hound": "*",
     "minimatch": "*"
   },
