@@ -14,7 +14,7 @@
     "uglify-js": ">2.0",
     "jshint": "*",
     "coffee-script": "*",
-    "less": "*",
+    "less": ">=3.5.2",
     "stylus": "*",
     "nib": "*",
     "csso": "*"
