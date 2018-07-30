@@ -12,7 +12,7 @@
     "mocha": "*",
     "should": "*",
     "uglify-js": ">2.0",
-    "jshint": "*",
+    "jshint": ">=2.9.6",
     "coffee-script": "*",
     "less": "*",
     "stylus": "*",
