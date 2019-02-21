@@ -9,7 +9,7 @@
     "minimatch": "*"
   },
   "devDependencies": {
-    "mocha": "*",
+    "mocha": ">=6.0.1",
     "should": "*",
     "uglify-js": ">2.0",
     "jshint": "*",
