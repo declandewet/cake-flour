@@ -15,7 +15,7 @@
     "jshint": "*",
     "coffee-script": "*",
     "less": "*",
-    "stylus": "*",
+    "stylus": ">=0.54.6",
     "nib": "*",
     "csso": "*"
   },
